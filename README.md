@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about building apps, AI models, and games
 
 ## 🚀 About Me
 
-I’m a **Mobile App Developer** and **Game Developer** who loves building great experiences using **Flutter** and **Unreal Engine**. I’m also deeply interested in **AI** and **Quantum Computing** and enjoy working on models that can push the limits of technology.
+I’m a **Flutter App Developer** and **Game Developer** who loves building great experiences using **Flutter** and **Unreal Engine**. I’m also deeply interested in **AI** and **Quantum Computing** and enjoy working on models that can push the limits of technology.
 
 - 💻 **Currently working on**: Building cool apps using Flutter and exploring Deeplearning game development with Unreal Engine.
 - 🧠 **Learning**: New techniques in AI, Unreal Engine game development, and Flutter updates.
@@ -30,9 +30,9 @@ If any of these sound interesting, feel free to [reach out](mishrarishi416@gmail
 
 Here are some of the technologies and tools I love working with:
 
-- **Languages**: Dart (Flutter), Python (AI/ML), C, C++ (Unreal Engine), C# Javascript.
-- **Frameworks & Libraries**: Flutter, TensorFlow, Unreal Engine.
-- **Tools**: Git, GitHub, Android Studio, Visual Studio Code, Unreal Engine.
+- **Languages**: Dart (Flutter), Python (AI/ML), C, C++ (Unreal Engine), C#, Javascript.
+- **Frameworks & Libraries**: Flutter, .NET, TensorFlow, Keras, Pandas, Matplotlib, Unreal Engine.
+- **Tools**: Git, GitHub, Android Studio, Visual Studio Code, Visual Studio, Google Colab, Jupyter Notebook, Unreal Engine.
 
 ## 📫 Get In Touch
 
