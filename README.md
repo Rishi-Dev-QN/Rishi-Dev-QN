@@ -31,7 +31,7 @@ If any of these sound interesting, feel free to [reach out](mishrarishi416@gmail
 Here are some of the technologies and tools I love working with:
 
 - **Languages**: Dart (Flutter), Python (AI/ML), C, C++ (Unreal Engine), C#, Javascript.
-- **Frameworks & Libraries**: Flutter, .NET, TensorFlow, Keras, Pandas, Matplotlib, Unreal Engine.
+- **Frameworks & Libraries**: Flutter, .NET, Pytorch, TensorFlow, Keras, Pandas, Matplotlib, Unreal Engine.
 - **Tools**: Git, GitHub, Arduino IDE, Android Studio, Visual Studio Code, Visual Studio, Google Colab, Jupyter Notebook, Unreal Engine.
 
 ## 📫 Get In Touch
