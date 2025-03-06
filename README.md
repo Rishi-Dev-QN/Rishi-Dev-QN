@@ -1,12 +1,12 @@
 # Hi there, I'm Rishi Mishra 👋
 
-Welcome to my GitHub! I’m passionate about building apps, AI models, and games. I primarily work with **Flutter** for mobile apps and **Unreal Engine** for game development. I love experimenting with new technologies and creating impactful projects.
+Welcome to my GitHub! I’m passionate about building apps, AI models, and games. I primarily work with **Flutter** for mobile and Desktop apps. I love experimenting with new technologies and creating impactful projects.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishi-Dev-QN&color=green)](https://github.com/Rishi-Dev-QN)
 
 ## 🚀 About Me
 
-I’m a **Flutter App Developer** and **Game Developer** who loves building great experiences using **Flutter** and **Unreal Engine**. I’m also deeply interested in **AI** and **Quantum Computing** and enjoy working on models that can push the limits of technology.
+I’m a **Flutter App Developer** who loves building great experiences using **Flutter**. I’m also deeply interested in **AI** and **Quantum Computing** and enjoy working on models that can push the limits of technology.
 
 - 💻 **Currently working on**: Building cool apps using Flutter and exploring Deeplearning game development with Unreal Engine.
 - 🧠 **Learning**: New techniques in AI, Unreal Engine game development, and Flutter updates.
