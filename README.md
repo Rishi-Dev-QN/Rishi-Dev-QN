@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about building apps, AI models, and games
 
 ## 🚀 About Me
 
-I’m a **Flutter App Developer** who loves building great experiences using **Flutter**. I’m also deeply interested in **AI** **Game Development (UE)** and **Quantum Computing** and enjoy working on models that can push the limits of technology.
+I’m a **Flutter App Developer** who loves building great experiences using **Flutter**. I’m also deeply interested in **AI**, **Game Development (UE)** and **Quantum Computing** and enjoy working on models that can push the limits of technology.
 
 - 💻 **Currently working on**: Building cool apps using Flutter and exploring Deeplearning game development with Unreal Engine.
 - 🧠 **Learning**: New techniques in AI, Unreal Engine game development, and Flutter updates.
